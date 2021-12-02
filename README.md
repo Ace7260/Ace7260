@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,7 +23,7 @@ I like the dark side of the internet and everything that goes with privacy and a
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ i like hacking and video game
-Member of Kubwacu Team https://kubwacu.com
+-🔭Member of Kubwacu Team https://kubwacu.com
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ace7260.Ace7260)
 
