@@ -23,7 +23,7 @@ I like the dark side of the internet and everything that goes with privacy and a
 - 👯 I’m looking to collaborate with other content creators
 <!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
 <!-- - ⚡ i like hacking and video game -->
--🔭Member of Kubwacu Team https://kubwacu.com
+-🔭Member of Kubwacu Team https://kubwacu.com</br>
 -More info https://ace7260.github.io/
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ace7260.Ace7260)
