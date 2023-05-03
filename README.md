@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 # My programmer's name is Ace1
 I like the dark side of the internet and everything that goes with privacy and anonymity
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning react js 🤣
 - 👯 I’m looking to collaborate with other content creators
-<!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
+<!-- - 🥅 2023 Goals: Contribute more to Open Source projects -->
 <!-- - ⚡ i like hacking and video game -->
 -🔭Member of Kubwacu Team https://kubwacu.com</br>
 -More info https://ace7260.github.io/
