@@ -24,8 +24,8 @@ I like the dark side of the internet and everything that goes with privacy and a
 - 🥅 2023 Goals: Contribute more to Open Source projects 
 <!-- - ⚡ i like hacking and video game -->
 -🔭Member of Kubwacu Team https://kubwacu.com</br>
--More info https://ace7260.github.io/
--More info https://wa.me/c/25769291695
+-More info https://ace7260.github.io/ </br>
+-https://wa.me/c/25769291695
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ace7260.Ace7260)
 
