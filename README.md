@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # My programmer's name is Ace1
 I like the dark side of the internet and everything that goes with privacy and anonymity
 
-- 🌱 I’m currently learning react js 🤣
+- 🌱 I’m currently working on react js ,next js ,python projects🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects 
 <!-- - ⚡ i like hacking and video game -->
@@ -34,8 +34,8 @@ I like the dark side of the internet and everything that goes with privacy and a
 [![Github](https://img.shields.io/github/followers/Ace7260?label=Follow&style=social)](https://github.com/Ace7260)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ace7260&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Ace7260/github-readme-stats)
-<!-- 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ace7260&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Ace7260/github-readme-stats) -->
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ace7260&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Ace7260/github-readme-stats)
 
 ## 🚀 Languages and Tools:
 
