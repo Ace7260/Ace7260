@@ -31,7 +31,7 @@ I like the dark side of the internet and everything that goes with privacy and a
 
 [![committers.top badge](https://user-badge.committers.top/burundi/Ace7260.svg)](https://user-badge.committers.top/burundi/Ace7260)
 
-[![Github](https://img.shields.io/github/followers/Ace7260?label=Follow&style=social)](https://github.com/Ace7260)
+[![Github](https://img.shields.io/github/followers/Ace7260?label=Follow&style=social)](https://github.com/Ace7260) [![wakatime](https://wakatime.com/badge/user/187cf274-2acd-49d4-8103-1cd486e23971.svg)](https://wakatime.com/@187cf274-2acd-49d4-8103-1cd486e23971)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ace7260&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Ace7260/github-readme-stats)
 
