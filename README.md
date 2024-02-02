@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # My programmer's name is Ace1
 I like the dark side of the internet and everything that goes with privacy and anonymity
 
-- 🌱 I’m currently working on react js ,next js ,python projects
+- 🌱 I’m currently working on MERN projects
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects 
 <!-- - ⚡ i like hacking and video game -->
