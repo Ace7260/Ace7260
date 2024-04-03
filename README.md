@@ -6,7 +6,7 @@ I'm passionate about the darker corners of the internet and all things related t
 - 👯 Looking to collaborate with other content creators.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - 🔭 Member of [Kubwacu Team](https://kubwacu.com).
-- 💬 More info at [my website](https://ace7260.github.io).
+- 💬 More info at [my website](https://ace7260.netlify.app/).
 - 📞 Reach me on [WhatsApp](https://wa.me/c/25769291695).
 - 🔑 Check out my work on [Frontend Mentor](https://www.frontendmentor.io/profile/Ace7260).
 
