@@ -4,7 +4,7 @@ I'm passionate about the darker corners of the internet and all things related t
 
 - 🌱 Currently working on MERN projects.
 - 👯 Looking to collaborate with other content creators.
-- 🥅 2025 Goals: Contribute more to Open Source projects.
+- 🥅 2026 Goals: Contribute more to Open Source projects.
 - 🔭 Member of [Kubwacu Team](https://kubwacu.com).
 - 💬 More info at [my website](https://ace7260.netlify.app/).
 - 📞 Reach me on [WhatsApp](https://wa.me/c/25769291695).
